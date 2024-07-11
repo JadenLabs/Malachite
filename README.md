@@ -2,6 +2,8 @@
 
 A successor to [Pebble](https://github.com/JadenLabs/Pebble) based on [DisSkele](https://github.com/JadenLabs/DisSkele).
 
+Aiming to rival mainstream leveling bots, Malachite is made with the purpose of putting more control in the hands of users with advanced configurations and settings.
+
 ---
 
 ## Setup
