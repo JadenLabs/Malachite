@@ -1,21 +1,21 @@
 [bot]
-name = "DisSkele"                       # Your bot name
-status = "online"                       # The status of the bot; online, idle, etc...
-activity = "DisSkele - A d.py skeleton" # The activity message
-prefix = ".ds"                          # Not used but required by discord.py
+name = "Malachite"
+status = "online"
+activity = "Malachite - a roc.py bot"
+prefix = ".m"
 
 [ids]
 sudo_users = [
     1027380375028244551, # roc.py
 ]
-home_guild = 1212198952649363487 # Roc(k) - used for errors and emojis
+home_guild = 1212198952649363487 # Roc(k)
 
 [colors]
-primary = 0xFFFFFF   # Used as the primary embed color
-secondary = 0x868686 # Used for embed separation
-invisible = 0x2B2D31 # Invisible embed color (dark mode only)
-success = 0x00D355   # Used on command success
-error = 0xDF0043     # Used on command errors
+primary = 0xFFFFFF
+secondary = 0x868686
+invisible = 0x2B2D31
+success = 0x00D355
+error = 0xDF0043
 
 [emojis]
 arrow_right = "<:arrow_right:1260800557355110453>"
