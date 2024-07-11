@@ -82,7 +82,11 @@ Thanks for checking out this project. If you'd like to help out with the project
 
 -   This project uses the [Black](https://github.com/psf/black) python formatter.
 
-## Note
+---
+
+## Additional Info
+
+### Upstream
 
 This project uses [DisSkele](https://github.com/JadenLabs/DisSkele) as the base so there will be times where it needs to pull changes from the upstream remote (from DisSkele) - this is done by doing the following:
 
@@ -98,3 +102,7 @@ This project uses [DisSkele](https://github.com/JadenLabs/DisSkele) as the base 
     ```bash
     git merge upstream/master
     ```
+
+### Contact
+
+Want to contact the maintainer of the project? Send a friend request to `roc.py` on Discord or email him at jadenlabssocial@outlook.com.
